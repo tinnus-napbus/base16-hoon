@@ -2,7 +2,7 @@
 |%
 ++  b16
   |_  =sch
-  ++  segs-to-manx
+  ++  highlight
     |=  =segs
     ^-  manx
     =/  style
