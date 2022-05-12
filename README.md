@@ -33,4 +33,9 @@ It will produce a `$manx` that'll look like this when encoded:
 </div>
 ```
 
+...which will look like:
+
+![2022-05-12_12h19m24s](https://user-images.githubusercontent.com/77721746/167967882-87fe1a44-276f-4cc0-a4bc-d7e6cfb05c8d.png)
+
+
 Note you're not limited to the included schemes in `scheme.hoon`, you can define your own `$sch` structure and use that instead.
