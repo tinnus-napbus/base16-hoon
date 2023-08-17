@@ -14,7 +14,7 @@ To use this, you'd do something like:
 ::
 =/  txt  (trip '{"foo":"bar","baz":true}')
 =/  hler  ~(highlight b16 gruvbox-dark-hard:scheme)
-(hler (b16-json txt))
+(hler ~ (b16-json txt))
 ```
 
 It will produce a `$manx` that'll look like this when encoded:
